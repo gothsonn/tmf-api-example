@@ -1,4 +1,4 @@
-# Swagger generated server
+# TMF api example
 
 Spring Boot Server 
 
